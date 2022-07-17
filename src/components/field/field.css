@@ -1,0 +1,49 @@
+.form_app {
+    width: 45%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 120px auto;
+}
+
+.form_app button {
+    height: 35px;
+    width: 120px;
+    border: none;
+    cursor: pointer;
+}
+
+.field_app {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.field_app span {
+    position: absolute;
+    bottom: -18px;
+    left: 0;
+    font-size: .7em;
+    color: #ff00009C;
+}
+
+.field_app input {
+    width: 100%;
+    height: 35px;
+    padding-left: 5px;
+    font-size: 1em;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.border-red {
+    border: .2px solid #ff00009C;
+}
+
+.border-none {
+    border: none;
+}
