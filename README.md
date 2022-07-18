@@ -1,9 +1,9 @@
-# one-point-mini-app
-# one-point-mini-app
+
+# Clone one-point-mini-app
 
 git clone https://github.com/larbiMehdaoui/one-point-mini-app.git
 
-#install dependencies
+#Install dependencies
 
 cd one-point-min-app
 
@@ -11,6 +11,6 @@ yarn
 
 
 
-# run the app
+# Run the app
 
 yarn dev 
